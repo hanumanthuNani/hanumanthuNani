@@ -8,8 +8,8 @@
 
 ## 👨‍💻 About Me
 - 🎓 **4th-year student** preparing for placements & dreaming of starting my own company.
-- 💡 Passionate about **web development, data science, big data analytics**, and **cloud computing**.
-- 🚀 Always exploring **automation, scalable architectures, and real-world problem-solving**.
+- 💡 Passionate about **web development, data science, and big data analytics**.
+- 🚀 Always exploring **cloud computing, automation, and real-world problem-solving**.
 
 ---
 
@@ -31,11 +31,16 @@
 ![Pig](https://img.shields.io/badge/Apache_Pig-F5A623?style=for-the-badge&logo=apache&logoColor=white)
 
 **Cloud & DevOps**  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="60"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original-wordmark.svg" alt="Azure" width="60"/>  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+<p align="left">
+  <!-- AWS Animated SVG -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/aws.svg" width="60">
+  <!-- Azure Animated SVG -->
+  <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/icons/azure.svg" width="60">
+  <br>
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
 ---
 
@@ -63,20 +68,8 @@ Automated `.xlsx` to `.csv` conversion, stored in Azure serverless SQL, with sch
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hanumanthuNani&theme=onedark&no-frame=true&margin-w=15" />
-</p>
-
----
-
 ## 🐍 Contribution Snake  
 ![GitHub Snake Animation](https://raw.githubusercontent.com/hanumanthuNani/hanumanthuNani/output/snake.svg)
-
----
-
-## 👀 Visitor Count
-![Visitor Count](https://komarev.com/ghpvc/?username=hanumanthuNani&style=for-the-badge)
 
 ---
 
